@@ -4,9 +4,9 @@ Theme URI: https://wenthemes.com/item/wordpress-themes/clean-commerce/
 Author: WEN Themes
 Author URI: https://wenthemes.com/
 Description: Clean Commerce is a simple yet modern e-commerce WordPress theme. It is esthetically minimalist, fresh-faced and bright, elegantly styled and well developed, readily responsive e-commerce WordPress theme. It is a perfect theme for commercial endeavors of all kinds, from digital download shops to online commercial retail of all kinds. It integrates the industry standard WooCommerce e-commerce plugin, a wonderful solution for all your online commerce needs, which allows your users to browse your product catalogs in easy but stylish grace, add items to their shopping carts intuitively, and proceed to checkout and make payments, all right off your website. Official Support Forum: https://themepalace.com/support-forum/ Full Demo: https://wenthemes.com/theme-demos/?demo=clean-commerce
-Version: 2.0.2
+Version: 2.0.3
 Requires at least: 5.6
-Tested up to: 6.4
+Tested up to: 6.7
 Requires PHP: 5.6
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -2489,7 +2489,6 @@ object {
     line-height: 1.5;
     margin: 10px auto 15px;
     padding: 6px 17px;
-    text-align: center;
     text-align: center;
     top: 0;
     transition: all 0.5s ease-in-out 0s;
